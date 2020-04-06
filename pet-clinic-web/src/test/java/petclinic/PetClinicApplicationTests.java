@@ -1,13 +1,13 @@
-package io.github.czliu.petclinic;
+package petclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PetClinicApplicationTests {
+public class PetClinicApplicationTests {
 
     @Test
-    void contextLoads() {
+    public void contextLoads() {
     }
 
 }
